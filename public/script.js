@@ -1,3 +1,5 @@
+// jshint esversion: 6
+
 const socket = io("/");
 
 const startBtn = document.getElementById("start");
